@@ -1,4 +1,4 @@
-# Controle e Execucao De Processo
+# Controle e Execução De Processo
 
 ## Sobre o Projeto
 
